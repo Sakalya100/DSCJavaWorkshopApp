@@ -7,17 +7,15 @@ To get you started quickly you can follow along the livestream video by checking
 
 Livestream Link - 
 
-For a quick view you can check the files as linked below - 
+### For a quick view you can check the files as linked below - 
 
 > The Layout Files -
-
-- [Login.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_login.xml) 
-- [Register.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_register.xml)
-- [MainActivity.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_main.xml)
+>- [Login.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_login.xml) 
+>- [Register.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_register.xml)
+>- [MainActivity.xml file](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/res/layout/activity_main.xml)
 
 
 > The Java Files - 
-
-- [Login Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/Login.java)
-- [Register Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/Register.java)
-- [Main Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/MainActivity.java)
+>- [Login Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/Login.java)
+>- [Register Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/Register.java)
+>- [Main Activity](https://github.com/DSCVITBHOPAL/DSCJavaWorkshopApp/blob/master/app/src/main/java/com/example/firsttimetest1/MainActivity.java)
