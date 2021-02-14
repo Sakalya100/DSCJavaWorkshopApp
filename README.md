@@ -5,7 +5,7 @@ This is the official and final project repository of what we are showcasing in t
 
 To get you started quickly you can follow along the livestream video by checking and understanding the code from the repository and start by copying the code from here. 
 
-Livestream Link - 
+[Livestream Link](https://youtu.be/1Ug7BUAVFhQ)
 
 ### For a quick view you can check the files as linked below - 
 
