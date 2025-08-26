@@ -1,4 +1,4 @@
-# DSCJavaWorkshopApp Test change reverted
+# DSCJavaWorkshopApp Test change reverted new PR
 This is the official and final project repository of what we are showcasing in the Java Workshop. 
 
 ### We have built a 'Coffee Counter App' which shows the user its total bill when the user register/login in the app and places a coffee order. 
